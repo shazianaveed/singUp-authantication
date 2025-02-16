@@ -1,0 +1,74 @@
+body{
+    background-image: url(https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#name{
+    width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 4px grey;
+    border: none;
+    
+
+}
+#name:hover{
+    background-color:black;
+    color: aliceblue;
+}
+
+#email{
+    width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 4px grey;
+    border: none;
+    
+
+}
+#email:hover{
+    background-color:black;
+    color: aliceblue;
+}
+
+#password{
+    width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 4px grey;
+    border: none;
+    
+
+
+}
+#password:hover{
+    background-color:black;
+    color: aliceblue;
+}
+#nic{
+    width: 200px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px 4px grey;
+    border: none;
+
+}
+#nic:hover{
+    background-color:black;
+    color: aliceblue;
+}
+#submit{
+    width: 120px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(229, 89, 89);
+}
+#submit:hover{
+    background-color: green;
+}
+h1{
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
